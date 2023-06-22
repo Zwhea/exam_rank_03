@@ -16,11 +16,10 @@ There is no Norminette in this exam.
 
 # Exam Login Details
 
+    login -> exam
+    password -> exam
+
 Type examshell in terminal
-
-    examshell
-
-Then enter your login and password
 
     login -> your 42 intra username (eg. prossi)
     pasword -> your password
@@ -38,8 +37,8 @@ In the  examshell, you have only the following 3 commands:
 Open new terminal
 
     You can find your exam subject in the directory subject
-    Then you can see directory rendu. It is your repository.
-    You must create a folder named after the project and start working.
+    Then you can see directory Rendu. It is your repository.
+    You must create a folder named by the project and start working.
     
 # Exam Submission Details
 
